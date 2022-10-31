@@ -3,6 +3,6 @@
 
 ![Alt text](/var.png?raw=true "Optional Title")
 
-## Блок-схема до коду
+## Блок-схема до програми
 
 ![Alt text](/code_block.png?raw=true "Optional Title")
