@@ -5,4 +5,20 @@
 
 ## Блок-схема до програми
 
-![Alt text](/code_block.png?raw=true "Optional Title")
+![Alt text](/main_block.png?raw=true "Optional Title")
+
+## Блок-схема до функції метода правих прямокутників
+
+![Alt text](/r_rect-method.png?raw=true "Optional Title")
+
+## Блок-схема до функції метода лівих прямокутників
+
+![Alt text](/l_rect-method.png?raw=true "Optional Title")
+
+## Блок-схема до функції метода трапецій
+
+![Alt text](/trapeze-method.png?raw=true "Optional Title")
+
+## Блок-схема до функції метода парабол
+
+![Alt text](/parabola-method.png?raw=true "Optional Title")
